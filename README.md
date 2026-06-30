@@ -26,5 +26,5 @@ I work with React, Node.js, Express, and MongoDB to create full-stack apps — f
 ### 📫 Connect with me
 
 - 💼 LinkedIn: [muhammad-tayyab1347](https://www.linkedin.com/in/muhammad-tayyab1347)
-- 📧 Email: ta09011@gmail.com
+- 📧 Email: www.ta09011@gmail.com
 - 🌐 Open to freelance & remote work
